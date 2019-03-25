@@ -10,15 +10,15 @@ def read(fname):
 setup(
     name="apkutils-patch",
 
-    version="0.5.3",
+    version="0.5.4",
 
     description=("Utils for parsing apk."),
-    long_description=read('README.md'),
+    # long_description=read('README.md'),
 
     url="https://github.com/codeskyblue/apkutils",
 
-    author="mikusjelly,codeskyblue",
-    author_email="mikusjelly@gmail.com,codeskyblue@gmail.com",
+    author="mikusjelly, codeskyblue",
+    author_email="mikusjelly@gmail.com, codeskyblue@gmail.com",
 
     license="MIT",
     classifiers=[
