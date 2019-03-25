@@ -1,4 +1,4 @@
-# apkutils [![PyPI version](https://badge.fury.io/py/apkutils.svg)](https://badge.fury.io/py/apkutils) [![GitHub license](https://img.shields.io/github/license/mikusjelly/apkutils.svg)](https://github.com/mikusjelly/apkutils/blob/master/LICENSE)
+# apkutils [![PyPI version](https://badge.fury.io/py/apkutils-patch.svg)](https://badge.fury.io/py/apkutils-patch) [![GitHub license](https://img.shields.io/github/license/mikusjelly/apkutils-patch.svg)](https://github.com/mikusjelly/apkutils-patch/blob/master/LICENSE)
 
 
 A library that gets infos from APK.
@@ -6,7 +6,7 @@ A library that gets infos from APK.
 ### Install and Test
 
 ```
-$ pip install apkutils
+$ pip install apkutils-patch
 ```
 
 ### Usage

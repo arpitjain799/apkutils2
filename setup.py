@@ -8,17 +8,17 @@ def read(fname):
 
 
 setup(
-    name="apkutils",
+    name="apkutils-patch",
 
     version="0.5.3",
 
     description=("Utils for parsing apk."),
     long_description=read('README.md'),
 
-    url="https://github.com/mikusjelly/apkutils",
+    url="https://github.com/codeskyblue/apkutils",
 
-    author="mikusjelly",
-    author_email="mikusjelly@gmail.com",
+    author="mikusjelly,codeskyblue",
+    author_email="mikusjelly@gmail.com,codeskyblue@gmail.com",
 
     license="MIT",
     classifiers=[
